@@ -1,8 +1,7 @@
-hl     {
-font-size: 24pt;
-color: red;
-text-decoration: underline;
-font-family: tahoma, helvetica, sans-serif;
+hl {
+  font-size: 24pt;
+  color: red;
+  text-decoration: underline;
 }
 em     {
 font-style: normal; color : green;
